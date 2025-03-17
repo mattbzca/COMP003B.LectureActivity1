@@ -2,7 +2,7 @@
  * Author: Matthew Tan
  * Course: COMP003B
  * Faculty: Jonathan Cruz
- * Purpose: My first ASP.NET Core application
+ * Purpose: My first ASP.NET Core application.
  * 
 */
 namespace COMP003B.LectureActivity1
